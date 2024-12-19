@@ -1,1 +1,1 @@
-"Descripci¢n" 
+Descripcion del proyecto 
